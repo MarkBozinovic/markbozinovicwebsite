@@ -1,0 +1,31 @@
+---
+title: "Android Applications"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Android applications from University and Home Made
+
+This page showcses the applications I have made for academic and learning purposes
+
+# NIT6120 - Mobile Applications Victoria University (Semester 1 2020)
+
+1. Martial Arts Grading Application 
+
+This application is a multi screen application to store grading scores
+for Martial Arts, using a single level belt as an example.
+The application uses functionality of Android Programming including
+SQL, Data Storage on the App, Data Manipulation Functionality, Intents,
+moving .gif displays and Password Entry
+
+Video Presentation
+
+<video width="320" height="240" controls>
+  <source src="2020-04-16 16-53-54(1).mp4" type="video/mp4">
+</video>
+<!-- #https://stackoverflow.com/questions/43840742/how-to-embed-local-video-in-r-markdown -->
+
+[GitHub Link](https://github.com/MarkBozinovic/NIT6120_Assignment1)

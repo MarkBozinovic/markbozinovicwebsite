@@ -1,0 +1,15 @@
+name: "Mark-Bozinovic"
+output_dir: "."
+navbar:
+  title: "Professional and Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Data Analytics"
+      href: dataanalytics.html
+    - text: "Android Applications"
+      href: androidapps.html
+    - text: "Professional Profile"
+      href: professional.html
+    - text: "Personal Profile"
+      href: personal.html
