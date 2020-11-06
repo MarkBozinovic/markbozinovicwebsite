@@ -10,5 +10,32 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Personal
 
 # Interests
+1. Rolling Thunder Martial Arts
+Under the tutelage of Dr. John Jory, a 6th Dan Hapkido Martial Artist.
+Since 2002, I have trained with John and has since in Association with
+Korean Hapkido Federation [HKF Link] (http://www.koreanhapkidofederation.com/)
+and Taekwondo and Hapkido Grand Master Sung Soo Lee [GM Link] (https://7tigers-jidokwan.com/html/grand-master-sung-soo-lee.html), John
+with his vast Martial Arts Experince, in depth knowledge of human anatomy and
+bio-mechanics, musical competency and out of the box thinking, developed 
+Rolling Thunder Martial Arts which is a hybrid of numerous arts with a Hapkido
+base. [RTMA Link] (https://twitter.com/search?q=%23rollingthundermartialarts&src=typed_query)
+
+2. Education and advancement of knowledge
+I have continually commited to my education, recently completing my Masters degree
+in Enterprise Resource Planning Systems. I also hold a Post Graduate Diploma in 
+Software Development (RMIT Melbourne) and an Applied Science Undergraduate Degree
+(Applied Chemistry)
+
+3. Travelling
+I have travelled throughout Australia over many years now and vistied many
+countries also.
+Countries travelled to: Vietnam, Singapore, Hong Kong, England, Italy, Belgium,
+Czech Republic, All Former Yugoslav Republics, Germany, Netherlands and France.
+
+4. Sport
+I enjoy Australian domestic sports including Cricket and Australian Rules Football.
+I pleayed cricket at club level for 12 years as an opening batter and love
+attending games of Australia Rules Football being a Melbourne Cricket Club Member
+[MCC Link] (https://www.mcc.org.au/)
 
 # Memberships/Affiliations
