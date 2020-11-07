@@ -1,7 +1,27 @@
 ---
-title: "Mark Bozinovic Website"
+title: <center>Website for Mark Bozinovic</center>
 output: html_document
 ---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 35px;
+  color: Blue;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+
+</style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,14 +31,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img src="Mark Bozinovic Photo.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to review data sets and reproduce easy to read and understand charting and graphics in R Markdown language. I also like to program Mobile Applications for Android using Java and have programmed numerous practical applications that are shown here.
+Welcome to the website for Mark Bozinovic.
 
-I graduated from the [Victoria University](https://www.vu.edu.au/study-at-vu/courses/browse-for-courses/by-topic/business/enterprise-resource-planning-erp-systems) with a Masters in Enterprise Resource Planning (ERP) Systems in 2020. For this course, I attained a Course GPA of 6.167 and a Course WAM: 75.000 (Distinction Average).
+In my studies in Business Analytics I have created a number of easy to read charts and graphs in R Markdown language from various datasets. 
+
+I also program Mobile Applications for Android using Java and have programmed numerous practical applications that are shown here.
+
+I graduated from the [Victoria University](https://www.vu.edu.au/study-at-vu/courses/browse-for-courses/by-topic/business/enterprise-resource-planning-erp-systems) with a Masters in Enterprise Resource Planning (ERP) Systems in November 2020. For this course, I attained a Course GPA of 6.167 and a Course WAM: 75.000 (Distinction Average).
 
 I currently work at Transdev Melbourne as a Service Delivery Specialist in the Public Trasport Victoria network.
 
-I was previously employed at Australia Post as a Credit Risk Manager, Procedures and Processes writer, SAP Fuctions across differet areas of the business including Finance, Inventory and Project Management.
+Prior to Transdev, I was employed at Australia Post as a Credit Risk Manager, Procedures and Processes writer, SAP Fuctions across differet areas of the business including Finance, Inventory and Project Management.
 
-I enjoy trainingin Martial Arts, travelling, cooking, time with my family and AFL (Australian) Football
+With a significant amount of Industry and Academic experience and achievements, I look to enhance my career from my studies to work in the ever evolving ICT Industry.
+
+In the personal space, I enjoy training in Martial Arts, Travelling (Domestic and International), Cooking, Time with my Family and AFL (Australian) Football.
 
 <!-- My full CV is available [here](files/Zabor_CV_2017_Q4.pdf). -->

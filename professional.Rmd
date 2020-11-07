@@ -3,11 +3,29 @@ title: "Professional Portfolio"
 output: html_document
 ---
 
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 35px;
+  color: Blue;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+
+</style>
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## Professional Details
 
 # Transdev - Jun 2017 to current
 

@@ -1,17 +1,37 @@
 ---
-title: "Data Analytics Portfolio"
+title: <center>Data Analytics Portfolio - Programming in the R language</center>
 output: html_document
 ---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 35px;
+  color: Blue;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Programming in the R language
 
-From subjcet code: BCO6007 - Business Analytics
+# Business Analytics Research Presetations
+
 
 1. This was the Research Assignment, conducted from Tidy Tuesday. Data comes directly from the American Association for the Advancement of Science Historical Trends and was assessed looking at the trends for US Departmental Spending and findings presented in Graphical Format with Predictions as to what Future Departmental Spending may look like based on recipe and bootstap modelling in R
 GitHub Link [GitHubLink](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-12)
 
 Assignment Presentation [R&DAssignment](https://rpubs.com/mark_bozinovic/684579)
+

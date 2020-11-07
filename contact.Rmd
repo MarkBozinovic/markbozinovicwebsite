@@ -1,0 +1,35 @@
+---
+#title: "contact"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 35px;
+  color: Blue;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+
+</style>
+
+
+# Contact Information
+1. LinkedIn [LI Link](https://www.linkedin.com/in/mark-bozinovic-b5525857/)
+
+2. Email: mark262728@yahoo.com.au
+
+3. Phone: +61 3 422 283 416

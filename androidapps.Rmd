@@ -1,17 +1,39 @@
 ---
-title: "Android Applications"
+title: <center>Android Applications</center>
 output: html_document
 ---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 18px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 35px;
+  color: Blue;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+
+h2 { /* Header 2 represented by ## precursor*/
+  font-size: 28px;
+  color: DarkBlue;
+  text-align: center
+}
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Android applications from University and Home Made
 
-This page showcses the applications I have made for academic and learning purposes
+## This page showcses the applications I have made for academic and learning purposes
 
-# NIT6120 - Mobile Applications Victoria University (Semester 1 2020)
 
 1. Martial Arts Grading Application 
 
@@ -21,11 +43,17 @@ The application uses functionality of Android Programming including
 SQL, Data Storage on the App, Data Manipulation Functionality, Intents,
 moving .gif displays and Password Entry
 
-Video Presentation
+[Video Presentation](https://www.researchgate.net/publication/344704630_Martial_Arts_-_Java_Android_Application)
 
-<video width="320" height="240" controls>
-  <source src="2020-04-16 16-53-54(1).mp4" type="video/mp4">
-</video>
+2. Habit Breaker Application
+
+This application is a 30 day course of keeping track in a graphical display
+from a drop down list of selected bad habits, in order to change a habit 
+over the course of that period
+
+[Video Presentation](https://twitter.com/mark_bozinovic/status/1275605239333183488)
+
+
 <!-- #https://stackoverflow.com/questions/43840742/how-to-embed-local-video-in-r-markdown -->
 
 [GitHub Link](https://github.com/MarkBozinovic/NIT6120_Assignment1)

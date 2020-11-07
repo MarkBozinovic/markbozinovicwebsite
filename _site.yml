@@ -1,7 +1,7 @@
 name: "Mark-Bozinovic"
 output_dir: "."
 navbar:
-  title: "Professional and Personal Website"
+  #title: "Professional and Personal Website"
   left:
     - text: "Home"
       href: index.html
@@ -13,3 +13,5 @@ navbar:
       href: professional.html
     - text: "Personal Profile"
       href: personal.html
+    - text: "Contact Information"
+      href: contact.html
