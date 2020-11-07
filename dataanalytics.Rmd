@@ -14,24 +14,8 @@ body {
     background-color: #4FB6C0;
   }
 
-=======
->>>>>>> ef7ecdbdf26853cb5ecde0fb156353e790ebcf94
-  }
-td {  /* Table  */
-  font-size: 18px;
-}
-h1.title {
-  font-size: 35px;
-  color: Blue;
-}
-h1 { /* Header 1 */
-<<<<<<< HEAD
-  font-size: 18px;
-=======
-  font-size: 28px;
->>>>>>> ef7ecdbdf26853cb5ecde0fb156353e790ebcf94
-  color: DarkBlue;
-}
+
+
 
 </style>
 

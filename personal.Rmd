@@ -5,26 +5,13 @@ output: html_document
 
 <style type="text/css">
 
-<<<<<<< HEAD
+
 body {
     background-color: #4FB6C0;
   }
 
-=======
->>>>>>> ef7ecdbdf26853cb5ecde0fb156353e790ebcf94
 body{ /* Normal  */
       font-size: 18px;
-  }
-td {  /* Table  */
-  font-size: 18px;
-}
-h1.title {
-  font-size: 35px;
-  color: Blue;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
 }
 
 </style>
