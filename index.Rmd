@@ -10,7 +10,7 @@ body{ /* Normal  */
 }
 
 body {
-    background-color: #4FB6C0;
+    background-color: #5D24C8;
   }
   
 <!-- https://stackoverflow.com/questions/39422404/setting-bgcolor-in-markdown -->
