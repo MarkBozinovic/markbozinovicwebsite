@@ -3,3 +3,5 @@
 # Data Analytics presentations using R
 # Android Applications using Java
 # Work Experience Portfolio, specifically SAP for Finance and SAP Development Projects 
+# Personal Interests 
+# Contact Information
